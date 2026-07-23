@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-c6c29n.privatetalks.online/sitemap.xml
